@@ -17,11 +17,9 @@
     "noFallthroughCasesInSwitch": true,
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./CreaverseDAO_webApp
-/*"]
+      "@/*": ["./src/*"]
     }
   },
-  "include": ["CreaverseDAO_webApp
-/**/*"],
+  "include": ["src/**/*"],
   "exclude": ["node_modules", "dist"]
 }
